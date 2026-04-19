@@ -47,27 +47,27 @@ Data Analyst chez **AXA France**, je travaille sur la centralisation de la donn�
     <th>Stack</th>
   </tr>
   <tr>
-    <td><a href="lien">🛒 ecommerce-performance-analysis</a></td>
+    <td><a href="https://github.com/ballogou-essi/Ecommerce-Performance-Analysis">🛒 ecommerce-performance-analysis</a></td>
     <td>Analyse de performance commerciale & segmentation client RFM</td>
     <td>Python · Power BI</td>
   </tr>
   <tr>
-    <td><a href="lien">🎬 movie-recommender-system</a></td>
+    <td><a href="https://github.com/ballogou-essi/Movie-Recommender-System">🎬 movie-recommender-system</a></td>
     <td>Filtrage collaboratif & SVD sur MovieLens 25M</td>
     <td>Python · scikit-learn · UMAP</td>
   </tr>
   <tr>
-    <td><a href="lien">🛡️ Insurance-Anomaly-Detector</a></td>
+    <td><a href="https://github.com/ballogou-essi/Insurance-Anomaly-Detector-MISTRAL-AI-HACKATHON-2026">🛡️ Insurance-Anomaly-Detector</a></td>
     <td>Détection d'anomalies dans des dossiers d'assurance, Mistral Hackathon 2026</td>
     <td>Flask · Mistral · Docker</td>
   </tr>
   <tr>
-    <td><a href="lien">🔍 rag-search-scifact</a></td>
+    <td><a href="https://github.com/ballogou-essi/RAG-Search-SciFact">🔍 rag-search-scifact</a></td>
     <td>Moteur de recherche sémantique sur 5K abstracts scientifiques, pipeline RAG</td>
     <td>FAISS · Mistral · FastAPI</td>
   </tr>
   <tr>
-    <td><a href="lien">🛰️ land-use-classification</a></td>
+    <td><a href="https://github.com/ballogou-essi/Land-Use-Classification.">🛰️ land-use-classification</a></td>
     <td>Classification d'images satellite par CNN, 96.5% de précision</td>
     <td>PyTorch · EuroSAT</td>
   </tr>
